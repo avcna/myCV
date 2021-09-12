@@ -1,0 +1,104 @@
+body {
+  padding: 3% 5%;
+  background-color: #C8E4FE;
+  color: #1f2330;
+  font-family: 'PT Sans', sans-serif;
+  font-weight: 400;
+}
+
+.MyNavbar {
+  padding: 1% 7% 1% 7%;
+  background-color: #FEFFE0;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom: 1px solid;
+}
+
+.nav-link:hover {
+  color: #A5AEFF;
+}
+
+.navbar-brand {
+  font-size: 2.5rem;
+  font-family: 'Lato', sans-serif;
+  font-weight: 900;
+}
+
+.red-font {
+  color: #6B76FF;
+}
+
+.tindog-pict {
+  width: 100%;
+  border: 8px solid white;
+  border-radius: 20px;
+}
+
+.black {
+  font-family: 'Lato', sans-serif;
+  font-weight: 900;
+  font-size: 4rem;
+}
+
+.nav-link {
+  margin-left: 30px;
+}
+
+.navbar-toggler {
+  color: #6B76FF;
+}
+
+.info {
+  padding: 3% 7% 3% 7%;
+  background-color: #FEFFE0;
+}
+
+p {
+  text-align: justify;
+}
+
+.download-button {
+  background-color: #A5AEFF;
+}
+
+.mywork {
+  font-size: 1.2rem;
+}
+
+.socmed-type {
+  display: inline-block;
+  margin: 50px 20px 0 20px;
+}
+
+.socmed {
+  text-align: center;
+}
+
+.socmed-info {
+  color: gray;
+}
+
+.contact-size {
+  font-size: 2.6rem;
+}
+
+.contact-section {
+  margin: 11% 0 11% 0;
+}
+.image{
+  width: 110%;
+  position: relative;
+  bottom: 60px;
+}
+#work{
+  padding: 5% 7% 10% 5%;
+}
+.ic-footer:hover{
+  color : gray;
+}
+i{
+  color : black;
+}
+.navbar-toggler{
+  background-color: #A5AEFF;
+}
